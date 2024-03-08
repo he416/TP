@@ -57,4 +57,3 @@ public class exercice1_2 {
 		    }
 
 }
-//pa
